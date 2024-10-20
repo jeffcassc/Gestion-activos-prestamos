@@ -1,0 +1,7 @@
+{
+  "name": "Front/Gestion-activos-prestamos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
